@@ -68,3 +68,13 @@ body{
     margin:0
 }
 
+.long{
+    width: 25%;
+    height:400px;
+    opacity: 50%
+}
+
+.discount{
+    background-image: url(long.jpeg)
+}
+
