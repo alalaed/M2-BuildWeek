@@ -79,7 +79,7 @@ body{
 }
 
 .buy{
-    width:120px
+    width:140px
 }
 
 .soon{
@@ -91,4 +91,13 @@ body{
     padding-bottom: 5px;
     font-size: 12px;
     padding-top: 5px;
+}
+
+.cyber{
+    display: flex;
+    align-items: center;
+}
+
+.pictureside{
+    width: 90%;
 }
