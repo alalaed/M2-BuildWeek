@@ -50,7 +50,7 @@ body{
 
 .galaxy{
     font-size: 16px;
-    border-left: 1px solid gray;
+    border-left: 1px solid rgb(194, 188, 188);
     padding-left: 10px;
 }
 
@@ -59,4 +59,11 @@ body{
     width: 35px;
     border-radius: 50%;
     border: 6px solid rgb(103, 31, 170);
+}
+
+.recommend{
+    font-weight: 600;
+    font-size: 16px;
+    border-bottom: 1px solid rgb(194, 188, 188);
+    margin:0
 }
