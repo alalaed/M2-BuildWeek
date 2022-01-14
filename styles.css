@@ -1,6 +1,7 @@
 
 body{
     font-family: 'Lato', sans-serif;
+    background-color: rgb(245, 242, 239);
 }
 
 #logo{
@@ -12,4 +13,27 @@ body{
     font-size: 14px;
     color: #ffffff;
     line-height: 52px;
+}
+.card-img-top{
+    object-fit: cover;
+    width: 100%;
+}
+
+.part1{
+    font-size: 14px;
+    font-weight: 500;
+    color: gray
+}
+
+.percent{
+    background-color: rgb(103, 31, 170);
+    color: white;
+    font-size: 18px;
+    display: flex;
+    align-items: center;
+    padding-right: 8px;
+    padding-left: 8px;
+    height: fit-content;
+    opacity: 80%;
+    border-radius: 2px;
 }
