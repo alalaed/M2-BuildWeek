@@ -37,3 +37,26 @@ body{
     opacity: 80%;
     border-radius: 2px;
 }
+.violet{
+    font-size: 16px;
+    color: #808080;
+    margin-top: 16px;
+}
+
+.violet span{
+    color: rgb(103, 31, 170);
+
+}
+
+.galaxy{
+    font-size: 16px;
+    border-left: 1px solid gray;
+    padding-left: 10px;
+}
+
+.circle{
+    height: 35px;
+    width: 35px;
+    border-radius: 50%;
+    border: 6px solid rgb(103, 31, 170);
+}
