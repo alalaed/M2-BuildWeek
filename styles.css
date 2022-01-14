@@ -78,3 +78,17 @@ body{
     background-image: url(long.jpeg)
 }
 
+.buy{
+    width:120px
+}
+
+.soon{
+    background-color: rgb(34, 75, 190);
+    padding: 0;
+    color: white;
+    padding-left: 22px;
+    padding-right: 22px;
+    padding-bottom: 5px;
+    font-size: 12px;
+    padding-top: 5px;
+}
